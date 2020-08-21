@@ -1,6 +1,9 @@
-glustercli (0.7-1) experimental; urgency=medium
+glustercli (0.8) experimental; urgency=medium
+
+  [ Caleb St. John ]
+  * update to 0.8 upstream
 
   [ Caleb St. John ]
   * initial debian package
 
- -- Caleb <yocalebo@gmail.com>  Sat, 09 May 2020 08:47:46 -0400
+ -- Caleb <yocalebo@gmail.com>  Fri, 21 August 2020 09:32:00 -0400
