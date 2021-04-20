@@ -1,7 +1,4 @@
-glustercli (0.8-1) experimental; urgency=medium
-
-  [ Caleb St. John ]
-  * pull in fixes to brick methods remove_*
+glustercli (0.8) experimental; urgency=medium
 
   [ Caleb St. John ]
   * update to 0.8 upstream
@@ -9,4 +6,4 @@ glustercli (0.8-1) experimental; urgency=medium
   [ Caleb St. John ]
   * initial debian package
 
- -- Caleb <yocalebo@gmail.com>  Tue, 20 April 2020 11:00:00 -0400
+ -- Caleb <yocalebo@gmail.com>  Fri, 21 August 2020 09:32:00 -0400
